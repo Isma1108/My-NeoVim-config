@@ -1,1 +1,1 @@
-# NeoVim Configuration Isma1108
+# My Neovim Config
